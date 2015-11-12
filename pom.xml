@@ -11,7 +11,7 @@
 	<artifactId>dw-commons-collections</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-commons-collections</name>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<description>常见集合操作函数包，参考apache commons collections</description>
 
 	<!-- scm配置 -->
